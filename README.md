@@ -43,7 +43,7 @@ A high-fidelity, real-time operations command center dashboard built with React,
 *Real-time mission tracking with live stats and activity feed*
 
 ### Interactive Map
-![Map View](Map view.png)
+![Map View](Mapview.png)
 *Live map with mission markers and location tracking*
 
 ### Mission Timeline
